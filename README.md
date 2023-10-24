@@ -8,7 +8,7 @@
 
 📫 See me at: www.sastelvio.com
 
-<a href="https://github.com/sastelvios/github-readme-stats"><img align="center" src="https://sas-github-readme-stats.vercel.app/api/top-langs?username=sastelvios&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&layout=compact" alt="Sastelvio's Most Used Langagues" width="100%"/></a>
+<a href="https://github.com/sastelvio/github-readme-stats"><img align="center" src="https://sas-github-readme-stats.vercel.app/api/top-langs?username=sastelvio&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&layout=compact" alt="Sastelvio's Most Used Langagues" width="100%"/></a>
 
 <!---
 sastelvios/sastelvios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
